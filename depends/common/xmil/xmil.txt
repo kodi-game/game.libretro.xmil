@@ -1,1 +1,1 @@
-xmil https://github.com/libretro/xmil-libretro/archive/fa41c8ba36d55241da8c0406a88bde61a79cc2ec.zip
+xmil https://github.com/libretro/xmil-libretro/archive/47540ca5bf4f908fab65572842d268e05a3443c9.zip
