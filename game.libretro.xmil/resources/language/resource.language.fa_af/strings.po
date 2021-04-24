@@ -1,0 +1,85 @@
+# game.libretro.xmil language file
+# Addon Name: game.libretro.xmil
+# Addon id: game.libretro.xmil
+# Addon Provider: libretro
+msgid ""
+msgstr ""
+"Project-Id-Version: game.libretro.xmil\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: 2020-09-01 13:20i\n"
+"PO-Revision-Date: 2020-09-01 13:20i\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: fa_af\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+
+msgctxt "#30000"
+msgid "Settings"
+msgstr ""
+
+msgctxt "#30001"
+msgid "Audio buffer (ms)"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Audio sampling rate"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Boot media"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Joy Reverse"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Joy Rapid"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Cpu clock (MHz)"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Disp Vsync"
+msgstr ""
+
+msgctxt "#30008"
+msgid "FM Board"
+msgstr ""
+
+msgctxt "#30009"
+msgid "FPS"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Key mode"
+msgstr ""
+
+msgctxt "#30011"
+msgid "No wait"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Raster"
+msgstr ""
+
+msgctxt "#30013"
+msgid "Resolution"
+msgstr ""
+
+msgctxt "#30014"
+msgid "ROM type"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Scanlines in low-res"
+msgstr ""
+
+msgctxt "#30016"
+msgid "Seek Sound"
+msgstr ""
