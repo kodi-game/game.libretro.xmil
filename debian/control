@@ -13,5 +13,5 @@ Section: libs
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, kodi, kodi-game-libretro
 Enhances: kodi
-Description: Sharp X1 (X Millenium) core for kodi's retroplayer
- Sharp X1 (X Millenium) core for kodi's retroplayer
+Description: Sharp X1 (X Millennium) core for kodi's retroplayer
+ Sharp X1 (X Millennium) core for kodi's retroplayer
