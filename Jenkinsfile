@@ -1,1 +1,1 @@
-buildPlugin(version: "master")
+buildPlugin(version: "Nexus")
