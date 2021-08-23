@@ -1,8 +1,6 @@
 cmake_minimum_required(VERSION 3.5)
 project(xmil)
 
-set(CMAKE_VERBOSE_MAKEFILE ON)
-
 list(APPEND CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR})
 
 include(ExternalProject)
