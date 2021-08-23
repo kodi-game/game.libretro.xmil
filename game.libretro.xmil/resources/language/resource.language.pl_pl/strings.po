@@ -16,6 +16,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 
+msgctxt "Addon Summary"
+msgid "Sharp X1 (X Millennium) 0.60"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "X millennium was born in the late 1990s as X1R, a real-time mode fork of X1EMU.
+
+Supported files: .dx1, .zip, .2d, .2hd, .tfd, .d88, .88d, .hdm, .xdf, .dup, .cmd"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""
