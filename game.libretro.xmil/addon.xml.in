@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.xmil"
 		name="Sharp X1 (X Millennium)"
-		version="0.60.0.15"
+		version="0.60.0.16"
 		provider-name="yui">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -12,6 +12,7 @@
 		<extensions>dx1|zip|2d|2hd|tfd|d88|88d|hdm|xdf|dup|cmd</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>false</supports_standalone>
+		<requires_opengl>false</requires_opengl>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<license>BSD</license>
