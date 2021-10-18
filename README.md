@@ -6,4 +6,7 @@
 ### Description
 X millennium was born in the late 1990s as X1R, a real-time mode fork of X1EMU.
 
-You can view a list of Libretro cores that have been ported to Kodi at the [Game add-ons - Libretro cores](https://kodi.wiki/view/Game_add-ons#Libretro_cores) wiki article.
+### License
+BSD
+
+
