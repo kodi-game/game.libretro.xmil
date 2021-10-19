@@ -4,9 +4,21 @@
 # Sharp X1 (X Millennium)
 
 ### Description
+
 X millennium was born in the late 1990s as X1R, a real-time mode fork of X1EMU.
 
 ### License
+
 BSD
 
+### Icon
 
+Help make me an icon!
+
+### Fanart
+
+Help make me fanart!
+
+### Screenshots
+
+Help make me screenshots!
