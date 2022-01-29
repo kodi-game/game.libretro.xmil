@@ -19,7 +19,7 @@
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.xmil</source>
 		<summary lang="en_GB">Sharp X1 (X Millennium) 0.60</summary>
-		<description lang="da_DK">X millennium blev født i slutningen af 1990&apos;erne som X1R, en fork af X1EMU i real-tid.</description>
+		<description lang="da_DK">X millennium blev født i slutningen af 1990&#x27;erne som X1R, en fork af X1EMU i real-tid.</description>
 		<description lang="en_GB">X millennium was born in the late 1990s as X1R, a real-time mode fork of X1EMU.</description>
 	</extension>
 </addon>
