@@ -13,7 +13,7 @@ BSD
 
 ### Icon
 
-Help make me an icon!
+![Icon](game.libretro.xmil/resources/icon.png)
 
 ### Fanart
 
@@ -21,4 +21,4 @@ Help make me fanart!
 
 ### Screenshots
 
-Help make me screenshots!
+![Screenshot](game.libretro.xmil/resources/screenshot-01.jpg)

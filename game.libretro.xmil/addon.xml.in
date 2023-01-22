@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.xmil"
 		name="Sharp X1 (X Millennium)"
-		version="0.60.0.24"
+		version="0.60.0.25"
 		provider-name="yui">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -18,6 +18,10 @@
 		<license>BSD</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.xmil</source>
+		<assets>
+			<icon>resources/icon.png</icon>
+			<screenshot>resources/screenshot-01.jpg</screenshot>
+		</assets>
 		<summary lang="en_GB">Sharp X1 (X Millennium) 0.60</summary>
 		<description lang="da_DK">X millennium blev født i slutningen af 1990&apos;erne som X1R, en fork af X1EMU i real-tid.</description>
 		<description lang="en_GB">X millennium was born in the late 1990s as X1R, a real-time mode fork of X1EMU.</description>
