@@ -13,7 +13,7 @@ BSD
 
 ### Icon
 
-![Icon](game.libretro.xmil/resources/icon.png)
+![Sharp X1 (X Millennium) icon](game.libretro.xmil/resources/icon.png)
 
 ### Fanart
 
@@ -21,4 +21,4 @@ Help make me fanart!
 
 ### Screenshots
 
-![Screenshot](game.libretro.xmil/resources/screenshot-01.jpg)
+![Sharp X1 (X Millennium) screenshot](game.libretro.xmil/resources/screenshot-01.jpg)
