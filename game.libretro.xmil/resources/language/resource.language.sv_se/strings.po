@@ -18,7 +18,7 @@ msgstr ""
 "X-Generator: Weblate 4.10.1\n"
 
 msgctxt "Addon Summary"
-msgid "Sharp X1 (X Millennium) 0.60"
+msgid "Sharp X1 (X Millennium)"
 msgstr ""
 
 msgctxt "Addon Description"
