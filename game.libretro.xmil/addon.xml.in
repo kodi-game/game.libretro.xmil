@@ -22,6 +22,7 @@
 			<icon>resources/icon.png</icon>
 			<screenshot>resources/screenshot-01.jpg</screenshot>
 		</assets>
+		<summary lang="da_DK">Sharp X1 (X Millennium)</summary>
 		<summary lang="en_GB">Sharp X1 (X Millennium)</summary>
 		<summary lang="es_ES">Sharp X1 (X Millennium)</summary>
 		<description lang="da_DK">X millennium blev født i slutningen af 1990&apos;erne som X1R, en fork af X1EMU i real-tid.</description>
