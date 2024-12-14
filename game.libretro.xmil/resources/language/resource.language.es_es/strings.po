@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "X millennium was born in the late 1990s as X1R, a real-time mode fork of X1EMU."
 msgstr "X milenio nació a finales de los 90 como X1R, una bifurcacación en modo de tiempo real del X1EMU."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Ajustes"
-
 msgctxt "#30001"
 msgid "Resolution"
 msgstr "Resolución"
@@ -92,3 +88,7 @@ msgstr "Búfer de Audio (ms)"
 msgctxt "#30016"
 msgid "Cpu clock (MHz)"
 msgstr "Reloj de la CPU (MHz)"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Ajustes"

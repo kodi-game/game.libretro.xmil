@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "X millennium was born in the late 1990s as X1R, a real-time mode fork of X1EMU."
 msgstr "X millennium 作为 X1R 诞生于20世纪90年代末，是 X1EMU 的实时模式分支。"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "设置"
-
 msgctxt "#30001"
 msgid "Resolution"
 msgstr "分辨率"
@@ -92,3 +88,7 @@ msgstr "音频缓冲区（ms）"
 msgctxt "#30016"
 msgid "Cpu clock (MHz)"
 msgstr "CPU 时钟（MHz）"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "设置"
