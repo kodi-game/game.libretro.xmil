@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
-	<category label="30000">
+	<category label="128">
 		<setting label="30001" type="select" id="X1_RESOLUTE" values="LOW|HIGH" default="LOW"/>
 		<setting label="30002" type="select" id="X1_BOOTMEDIA" values="2HD|2D" default="2HD"/>
 		<setting label="30003" type="select" id="X1_ROMTYPE" values="X1|TURBO|TURBOZ" default="X1"/>
