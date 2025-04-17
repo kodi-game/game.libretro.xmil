@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.xmil\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2020-09-01 13:20i\n"
-"PO-Revision-Date: 2025-04-11 09:05+0000\n"
+"PO-Revision-Date: 2025-04-17 04:27+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-xmil/sv_se/>\n"
 "Language: sv_se\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11\n"
 
 msgctxt "Addon Summary"
 msgid "Sharp X1 (X Millennium)"
@@ -31,7 +31,7 @@ msgstr "Upplösning"
 
 msgctxt "#30002"
 msgid "Boot media"
-msgstr ""
+msgstr "Startmedia"
 
 msgctxt "#30003"
 msgid "ROM type"
@@ -41,45 +41,53 @@ msgctxt "#30004"
 msgid "FPS"
 msgstr "Bildfrekvens"
 
+#, fuzzy
 msgctxt "#30005"
 msgid "Disp Vsync"
-msgstr ""
+msgstr "Disp Vsync"
 
 msgctxt "#30006"
 msgid "Raster"
-msgstr ""
+msgstr "Raster"
 
 msgctxt "#30007"
 msgid "No wait"
-msgstr ""
+msgstr "Ingen vänta"
 
+#, fuzzy
 msgctxt "#30008"
 msgid "Joy Reverse"
-msgstr ""
+msgstr "Joy Reverse"
 
+#, fuzzy
 msgctxt "#30009"
 msgid "Joy Rapid"
-msgstr ""
+msgstr "Joy Rapid"
 
+#, fuzzy
 msgctxt "#30010"
 msgid "Audio sampling rate"
-msgstr ""
+msgstr "Samplingsfrekvens för ljud"
 
+#, fuzzy
 msgctxt "#30011"
 msgid "Seek Sound"
-msgstr ""
+msgstr "Sök ljud"
 
+#, fuzzy
 msgctxt "#30012"
 msgid "Scanlines in low-res"
-msgstr ""
+msgstr "Scanlines i lågupplöst format"
 
+#, fuzzy
 msgctxt "#30013"
 msgid "Key mode"
-msgstr ""
+msgstr "Knappläge"
 
+#, fuzzy
 msgctxt "#30014"
 msgid "FM Board"
-msgstr ""
+msgstr "FM Styrelse"
 
 msgctxt "#30015"
 msgid "Audio buffer (ms)"
