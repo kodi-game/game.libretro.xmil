@@ -25,12 +25,14 @@
 		<summary lang="da_DK">Sharp X1 (X Millennium)</summary>
 		<summary lang="en_GB">Sharp X1 (X Millennium)</summary>
 		<summary lang="es_ES">Sharp X1 (X Millennium)</summary>
+		<summary lang="ga">Sharp X1 (X Millennium)</summary>
 		<summary lang="sv_SE">Sharp X1 (X Millennium)</summary>
 		<summary lang="zh_CN">夏普 X1 (X Millennium)</summary>
 		<description lang="da_DK">X millennium blev født i slutningen af 1990&apos;erne som X1R, en fork af X1EMU i real-tid.</description>
 		<description lang="de_DE">X Millennium wurde in den späten 1990er Jahren als X1R geboren, ein Echtzeitmodus-Ableger von X1EMU.</description>
 		<description lang="en_GB">X millennium was born in the late 1990s as X1R, a real-time mode fork of X1EMU.</description>
 		<description lang="es_ES">X milenio nació a finales de los 90 como X1R, una bifurcacación en modo de tiempo real del X1EMU.</description>
+		<description lang="ga">Rugadh X millennium ag deireadh na 1990idí mar X1R, forc mód fíor-ama de X1EMU.</description>
 		<description lang="sv_SE">X millennium föddes i slutet av 1990-talet som X1R, en fork för realtidsläge av X1EMU.</description>
 		<description lang="zh_CN">X millennium 作为 X1R 诞生于20世纪90年代末，是 X1EMU 的实时模式分支。</description>
 	</extension>
