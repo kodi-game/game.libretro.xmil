@@ -43,10 +43,10 @@
 					<constraints>
 						<options>
 							<option label="16316">AUTO</option>
-							<option>60</option>
-							<option>30</option>
-							<option>20</option>
-							<option>15</option>
+							<option label="30017">60</option>
+							<option label="30018">30</option>
+							<option label="30019">20</option>
+							<option label="30020">15</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
