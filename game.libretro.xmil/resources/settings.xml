@@ -42,7 +42,7 @@
 					<default>AUTO</default>
 					<constraints>
 						<options>
-							<option>AUTO</option>
+							<option label="16316">AUTO</option>
 							<option>60</option>
 							<option>30</option>
 							<option>20</option>
@@ -56,8 +56,8 @@
 					<default>OFF</default>
 					<constraints>
 						<options>
-							<option>OFF</option>
-							<option>ON</option>
+							<option label="351">OFF</option>
+							<option label="16041">ON</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -67,8 +67,8 @@
 					<default>OFF</default>
 					<constraints>
 						<options>
-							<option>OFF</option>
-							<option>ON</option>
+							<option label="351">OFF</option>
+							<option label="16041">ON</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -78,8 +78,8 @@
 					<default>OFF</default>
 					<constraints>
 						<options>
-							<option>OFF</option>
-							<option>ON</option>
+							<option label="351">OFF</option>
+							<option label="16041">ON</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -89,8 +89,8 @@
 					<default>OFF</default>
 					<constraints>
 						<options>
-							<option>OFF</option>
-							<option>ON</option>
+							<option label="351">OFF</option>
+							<option label="16041">ON</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -100,8 +100,8 @@
 					<default>OFF</default>
 					<constraints>
 						<options>
-							<option>OFF</option>
-							<option>ON</option>
+							<option label="351">OFF</option>
+							<option label="16041">ON</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -123,8 +123,8 @@
 					<default>OFF</default>
 					<constraints>
 						<options>
-							<option>OFF</option>
-							<option>ON</option>
+							<option label="351">OFF</option>
+							<option label="16041">ON</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -134,8 +134,8 @@
 					<default>OFF</default>
 					<constraints>
 						<options>
-							<option>OFF</option>
-							<option>ON</option>
+							<option label="351">OFF</option>
+							<option label="16041">ON</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -158,8 +158,8 @@
 					<default>ON</default>
 					<constraints>
 						<options>
-							<option>ON</option>
-							<option>OFF</option>
+							<option label="16041">ON</option>
+							<option label="351">OFF</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
