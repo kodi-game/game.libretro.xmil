@@ -89,6 +89,22 @@ msgctxt "#30016"
 msgid "Cpu clock (MHz)"
 msgstr ""
 
+msgctxt "#30017"
+msgid "60"
+msgstr ""
+
+msgctxt "#30018"
+msgid "30"
+msgstr ""
+
+msgctxt "#30019"
+msgid "20"
+msgstr ""
+
+msgctxt "#30020"
+msgid "15"
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Ajustes"
