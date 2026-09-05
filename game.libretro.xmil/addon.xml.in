@@ -8,7 +8,7 @@
 	</requires>
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
-		<platforms></platforms>
+		<platforms>Sharp X1</platforms>
 		<extensions>dx1|zip|2d|2hd|tfd|d88|88d|hdm|xdf|dup|cmd</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>false</supports_standalone>
