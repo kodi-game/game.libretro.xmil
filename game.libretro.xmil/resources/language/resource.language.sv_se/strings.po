@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.xmil\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2020-09-01 13:20i\n"
-"PO-Revision-Date: 2025-04-17 04:27+0000\n"
+"PO-Revision-Date: 2026-11-02 20:48+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-xmil/sv_se/>\n"
 "Language: sv_se\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11\n"
+"X-Generator: Weblate 2026.10.1\n"
 
 msgctxt "Addon Summary"
 msgid "Sharp X1 (X Millennium)"
@@ -41,10 +41,9 @@ msgctxt "#30004"
 msgid "FPS"
 msgstr "Bildfrekvens"
 
-#, fuzzy
 msgctxt "#30005"
 msgid "Disp Vsync"
-msgstr "Disp Vsync"
+msgstr "Visningssynkronisering"
 
 msgctxt "#30006"
 msgid "Raster"
@@ -54,40 +53,33 @@ msgctxt "#30007"
 msgid "No wait"
 msgstr "Ingen vänta"
 
-#, fuzzy
 msgctxt "#30008"
 msgid "Joy Reverse"
-msgstr "Joy Reverse"
+msgstr "Omvänd styrspak"
 
-#, fuzzy
 msgctxt "#30009"
 msgid "Joy Rapid"
-msgstr "Joy Rapid"
+msgstr "Snabbeld för styrspak"
 
-#, fuzzy
 msgctxt "#30010"
 msgid "Audio sampling rate"
 msgstr "Samplingsfrekvens för ljud"
 
-#, fuzzy
 msgctxt "#30011"
 msgid "Seek Sound"
-msgstr "Sök ljud"
+msgstr "Sökljud"
 
-#, fuzzy
 msgctxt "#30012"
 msgid "Scanlines in low-res"
-msgstr "Scanlines i lågupplöst format"
+msgstr "Bildlinjer i låg upplösning"
 
-#, fuzzy
 msgctxt "#30013"
 msgid "Key mode"
-msgstr "Knappläge"
+msgstr "Tangentläge"
 
-#, fuzzy
 msgctxt "#30014"
 msgid "FM Board"
-msgstr "FM Styrelse"
+msgstr "FM-kort"
 
 msgctxt "#30015"
 msgid "Audio buffer (ms)"
@@ -99,19 +91,19 @@ msgstr "Cpu-klocka (MHz)"
 
 msgctxt "#30017"
 msgid "60"
-msgstr ""
+msgstr "60"
 
 msgctxt "#30018"
 msgid "30"
-msgstr ""
+msgstr "30"
 
 msgctxt "#30019"
 msgid "20"
-msgstr ""
+msgstr "20"
 
 msgctxt "#30020"
 msgid "15"
-msgstr ""
+msgstr "15"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
